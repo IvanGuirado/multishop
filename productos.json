@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Cerveza 1",
+        "price": 15,
+        "image": "img/modelo201.jpg",
+        "category": "hombres"
+    },
+    {
+        "id": 2,
+        "name": "Cerveza 2",
+        "price": 15,
+        "image": "img/modelo202.jpg",
+        "category": "mujeres"
+    }
+
+]
