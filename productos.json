@@ -1,17 +1,31 @@
 [
     {
         "id": 1,
-        "name": "Cerveza 1",
-        "price": 15,
-        "image": "img/modelo201.jpg",
-        "category": "hombres"
+        "name": "Skull-cream",
+        "price": 21,
+        "image": "img/skull-cream.jpg",
+        "category": "unisex"
     },
     {
         "id": 2,
-        "name": "Cerveza 2",
-        "price": 15,
-        "image": "img/modelo202.jpg",
+        "name": "mint Terra",
+        "price": 22,
+        "image": "img/mint-terra.jpg",
         "category": "mujeres"
+    },
+    {
+        "id": 3,
+        "name": "Nightfall",
+        "price": 21,
+        "image": "img/mint-terra.jpg",
+        "category": "unisex"
+    },
+    {
+        "id": 4,
+        "name": "Peces koi",
+        "price": 22,
+        "image": "img/Peces-koi.jpg",
+        "category": "unisex"
     }
 
 ]
